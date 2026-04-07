@@ -32,7 +32,7 @@ The project uses CSVs generated from SQL queries on the `social_db`:
 
 Here’s the **combined visualization** summarizing the analysis:
 
-![Social Media Engagement](https://github.com/YOUR_USERNAME/social-media-engagement-analysis/blob/main/images/social_media_charts.png)
+![Social Media Engagement](images/output_report.png)
 
 **What this shows:**  
 - 🏅 **Top 5 Posts:** These posts have the **highest engagement rate**, showing content types or topics that resonate with the audience.  
