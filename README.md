@@ -32,7 +32,13 @@ The project uses CSVs generated from SQL queries on the `social_db`:
 
 Here’s the **combined visualization** summarizing the analysis:
 
-![Social Media Engagement](output_report.png)
+<p align="center">
+  <img src="output_report.png" width="700"/>
+</p>
+
+<p align="center">
+  <b>Figure:</b> Combined visualization of top posts, users, platform share, and engagement trends 📊
+</p>
 
 
 **What this shows:**  
