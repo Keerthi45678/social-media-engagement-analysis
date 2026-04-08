@@ -32,7 +32,7 @@ The project uses CSVs generated from SQL queries on the `social_db`:
 
 Here’s the **combined visualization** summarizing the analysis:
 
-![Social Media Engagement](https://github.com/Keerthi45678/social-media-engagement-analysis/raw/main/output%20report.png)
+![Social Media Engagement](output_report.png)
 
 
 **What this shows:**  
